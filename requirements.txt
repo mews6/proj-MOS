@@ -1,0 +1,9 @@
+pyomo
+glpk
+ipopt
+matplotlib
+pandas
+numpy
+ipykernel
+sympy
+ipopt
