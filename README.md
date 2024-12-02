@@ -1,6 +1,10 @@
 # proj-MOS
 Little mathematical modeling problem, made in Pyomo
 
+### Project structure
+
+- src: where the main project is located, shows 
+
 ### Configuring Anaconda.
 
 For the purposes of this repository, you can get by with the installation guide provided for either [Anaconda](https://docs.anaconda.com/anaconda/install/) or [Miniconda](https://docs.anaconda.com/miniconda/miniconda-install/), these installation instructions will depend on your operating system and as such, you will have to follow the corresponding guide. However, once you have set up anaconda in your system, you can make a virtual environment for you to work on by inputting the following commands while having your terminal in the repository:

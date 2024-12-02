@@ -7,3 +7,6 @@ numpy
 ipykernel
 sympy
 ipopt
+shapely
+anaconda::cmake
+pybind11
