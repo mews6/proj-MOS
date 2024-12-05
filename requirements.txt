@@ -8,6 +8,4 @@ ipykernel
 sympy
 ipopt
 shapely
-cmake
-pybind11
 geopandas
