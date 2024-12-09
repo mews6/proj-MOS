@@ -10,4 +10,4 @@ ipopt
 shapely
 geopandas
 osmnx
-openrouteservice
+haversine
